@@ -1,2 +1,4 @@
 # spanishwordoftheday
 Spanish word of the day
+
+With this application, you will receive a notification in the morning to simply type a word - a word in Spanish that you want to focus on today to work to make it stick! Pick a word that you realize might be useful in your day to day life, or something you find interesting! There is also an option to generate a random Spanish word. Throughout the day you can receive notifications (the frequency is up to you!) from the app with your word of the day used in different ways! This application helps you to make consistent progress towards your language learning goals ,whatever they may be!
